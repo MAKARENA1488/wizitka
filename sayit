@@ -1,0 +1,40 @@
+<html>
+    <body style="background-color: #d6f55c">
+    <a href="#MAIN0" style="color: Purple;font-size: 25px">головна</a>
+    <a href="#MAIN1" style="color: green;font-size: 25px">Інфа</a>
+     <a href="#MAIN2" style="color: black;font-size: 25px">контакти</a>
+    <img src="https://learn.logikaschool.com/uploads/student/4826556/672672c1af989.png"heigh="360px"width="150px" style="text-align: center"/>
+ <title id="#MAIN0" style="color: AliceBlue;text-align:center;background-color: Darkblue;font-size:30px">продається кафе"Птах" </title>
+    <header style="background-color: green;font-size:25px;color: #AFEEEE">
+    <h2 id="#MAIN1" >продається кафе в центрі міста</h2>
+    <p>прихожене,гарне,перший власник</p>
+    <p>ціна:70000000грн</p>
+    <p>пдоща:20м квадратних</p>
+    <img src="https://learn.logikaschool.com/uploads/student/4826556/67264326a6217.jpg"heigh="720px"width="720px"/>
+    <h3 style="color: Skyblue;text-align:center">ось як виглядає</h3>
+    </header>
+    <main>
+    <table style="border:2px solid green">
+    <tr style="color:white">
+    <td style="background-color: Skyblue">власник</td>
+    <td> Генадій</td>
+    <td>Крокодайловий</td>
+    </tr>
+    <tr style="color:white">
+    <td style="background-color: Skyblue"> оренда</td>
+    <td>по номеру</td>
+    <td>нище</td>
+    </tr>
+    <tr style="color:white">
+    <td style="background-color: Skyblue">ціна оренди</td>
+    <td>70000-</td>
+    <td>80000</td>
+    </tr>
+    </table>
+    </main>
+    <footer id="#MAIN2" style="background-color: black;font-size: 20px"> 
+    <p style="color: white">тел.:88005553535</p> 
+    <p style="color: white">вул.Руриковська 52</p>
+    </footer>
+    </body>
+</html>
